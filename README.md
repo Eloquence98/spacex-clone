@@ -1,2 +1,3 @@
 # spacex-clone
-https://spacexclone.herokuapp.com/
+
+https://sspacexclone.netlify.app
